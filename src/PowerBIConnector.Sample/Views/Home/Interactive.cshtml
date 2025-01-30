@@ -1,0 +1,39 @@
+﻿@model PowerBIConnector.ViewModels.PowerBIReportViewModel;
+
+@{
+    ViewData["Title"] = "Interactive Report";
+}
+
+<div id="embed-container" style="height: 850px;"></div>
+
+@section Scripts {
+
+    <script>
+        var viewModel = {
+            reportId: "@Model.Id",
+            embedUrl: "@Model.EmbedUrl",
+            token: "@Model.Token"
+        };
+
+        $(function () {
+            var report = getEmbeddedReport();
+
+            // Handle click event within the report...
+            report.on('dataHyperlinkClicked', (event) => {
+
+                console.log(event);
+
+                alert(event);
+            });
+        });
+    </script>
+
+
+    <!-- powerbi.min.js is the JavaScript file that loads the client-side Power BI JavaScript API library.
+    Make sure that you're working with the latest library version.
+    You can check the latest library available in https://cdnjs.com/libraries/powerbi-client -->
+    <script src="https://cdn.jsdelivr.net/npm/powerbi-client@2.18.0/dist/powerbi.min.js" integrity="sha384-nUwGIQx78YehFLJLFSwEI4EUaCSX69GrbWJDlGYELWRwhtGBhiT1GKRWlnrOJg4s" crossorigin="anonymous"></script>
+
+    <!-- This script specifies the location of the embed.js file -->
+    <script src="~/js/PowerBI/embed.js" asp-append-version="true"></script>
+}
