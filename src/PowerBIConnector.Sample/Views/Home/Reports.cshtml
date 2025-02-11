@@ -1,0 +1,23 @@
+﻿@model List<Microsoft.PowerBI.Api.Models.Report>
+
+<h2>Reports</h2>
+
+<p>
+    This page demonstrates how to get a list of all reports in a workspaces.
+</p>
+
+@if (Model.Any())
+{
+    <ul class="list-group">
+        @foreach (var report in Model.OrderBy(r => r.Name))
+        {
+            <li class="list-group-item">
+                <strong>@report.Name</strong>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <h3>No reports found</h3>
+}

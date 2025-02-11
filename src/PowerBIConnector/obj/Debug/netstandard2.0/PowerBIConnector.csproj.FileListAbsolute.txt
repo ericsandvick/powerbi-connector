@@ -1,0 +1,11 @@
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\bin\Debug\netstandard2.0\PowerBIConnector.deps.json
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\bin\Debug\netstandard2.0\PowerBIConnector.dll
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\bin\Debug\netstandard2.0\PowerBIConnector.pdb
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.csproj.AssemblyReference.cache
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.AssemblyInfoInputs.cache
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.AssemblyInfo.cs
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.csproj.CoreCompileInputs.cache
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.sourcelink.json
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.dll
+C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\obj\Debug\netstandard2.0\PowerBIConnector.pdb

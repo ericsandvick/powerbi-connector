@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\PowerBIConnector.csproj": {}
+    "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\PowerBIConnector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\PowerBIConnector.csproj": {
+    "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\PowerBIConnector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\PowerBIConnector.csproj",
+        "projectUniqueName": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\PowerBIConnector.csproj",
         "projectName": "PowerBIConnector",
-        "projectPath": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\PowerBIConnector.csproj",
+        "projectPath": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\PowerBIConnector.csproj",
         "packagesPath": "C:\\Users\\201381\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\obj\\",
+        "outputPath": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

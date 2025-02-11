@@ -1,0 +1,23 @@
+﻿@model List<Microsoft.PowerBI.Api.Models.AdminGroup>
+
+<h2>Workspaces</h2>
+
+<p>
+    This page demonstrates how to get a list of all workspaces that the authenticated user has access to.
+</p>
+
+@if (Model.Any())
+{
+    <ul class="list-group">
+        @foreach (var workspace in Model.OrderBy(w => w.Name))
+        {
+            <li class="list-group-item">
+                <strong>@workspace.Name</strong>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <h3>No workspaces found</h3>
+}

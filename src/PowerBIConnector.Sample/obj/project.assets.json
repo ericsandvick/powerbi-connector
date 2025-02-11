@@ -401,11 +401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector.Sample\\PowerBIConnector.Sample.csproj",
+      "projectUniqueName": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\PowerBIConnector.Sample.csproj",
       "projectName": "PowerBIConnector.Sample",
-      "projectPath": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector.Sample\\PowerBIConnector.Sample.csproj",
+      "projectPath": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\PowerBIConnector.Sample.csproj",
       "packagesPath": "C:\\Users\\201381\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector.Sample\\obj\\",
+      "outputPath": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -427,8 +427,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\PowerBIConnector.csproj": {
-              "projectPath": "C:\\Users\\201381\\source\\repos\\PowerBIConnector\\PowerBIConnector\\PowerBIConnector.csproj"
+            "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\PowerBIConnector.csproj": {
+              "projectPath": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector\\PowerBIConnector.csproj"
             }
           }
         }

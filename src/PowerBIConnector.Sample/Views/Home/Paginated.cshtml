@@ -4,6 +4,19 @@
     ViewData["Title"] = "Paginated Report";
 }
 
+<h2>Paginated Report</h2>
+
+<p>
+    This page demonstrates how to embed an paginated report and export it in an Excel format.
+</p>
+
+<div class="mb-4">
+    <a asp-controller="Home"
+        asp-action="Export" 
+        class="btn btn-primary"
+        target="_blank">Export</a>
+</div>
+
 <div id="embed-container" style="height: 850px;"></div>
 
 @section Scripts {

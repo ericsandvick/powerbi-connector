@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\views\\home\\paginated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:views\\home\\paginated.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\views\\home\\interactive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:views\\home\\interactive.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\views\\home\\workspaces.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:views\\home\\workspaces.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\views\\home\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:views\\home\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|c:\\users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\powerbiconnector.sample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}|PowerBIConnector.Sample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:26:03.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workspaces.cshtml",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Workspaces.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Workspaces.cshtml",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Workspaces.cshtml",
+              "RelativeToolTip": "Views\\Home\\Workspaces.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:14:18.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:10:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Reports.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Reports.cshtml",
+              "RelativeToolTip": "Views\\Home\\Reports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T15:45:21.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paginated.cshtml",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Paginated.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Paginated.cshtml",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Paginated.cshtml",
+              "RelativeToolTip": "Views\\Home\\Paginated.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T15:28:43.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T14:45:14.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAmwIIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:19:24.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T18:52:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interactive.cshtml",
+              "DocumentMoniker": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Interactive.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Interactive.cshtml",
+              "ToolTip": "C:\\Users\\201381\\source\\repos\\ericsandvick\\powerbi-connector\\src\\PowerBIConnector.Sample\\Views\\Home\\Interactive.cshtml",
+              "RelativeToolTip": "Views\\Home\\Interactive.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T18:16:22.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

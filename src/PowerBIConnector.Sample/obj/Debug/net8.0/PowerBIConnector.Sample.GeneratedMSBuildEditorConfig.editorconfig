@@ -30,8 +30,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdpbmF0ZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/201381/source/repos/ericsandvick/powerbi-connector/src/PowerBIConnector.Sample/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/201381/source/repos/ericsandvick/powerbi-connector/src/PowerBIConnector.Sample/Views/Home/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/201381/source/repos/ericsandvick/powerbi-connector/src/PowerBIConnector.Sample/Views/Home/Workspaces.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXb3Jrc3BhY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/201381/source/repos/ericsandvick/powerbi-connector/src/PowerBIConnector.Sample/Views/Shared/Error.cshtml]

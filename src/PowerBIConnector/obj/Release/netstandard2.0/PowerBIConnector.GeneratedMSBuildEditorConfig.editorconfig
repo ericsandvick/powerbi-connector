@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PowerBIConnector
+build_property.ProjectDir = C:\Users\201381\source\repos\ericsandvick\powerbi-connector\src\PowerBIConnector\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

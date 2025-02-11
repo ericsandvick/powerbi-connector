@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerBIConnector.Sample", "PowerBIConnector.Sample.csproj", "{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerBIConnector", "..\PowerBIConnector\PowerBIConnector.csproj", "{46D9E0A9-9D39-417A-BDA5-A41D1CEFC336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DDC22C-D9B5-4320-886B-86DF1F2C3AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D9E0A9-9D39-417A-BDA5-A41D1CEFC336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D9E0A9-9D39-417A-BDA5-A41D1CEFC336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D9E0A9-9D39-417A-BDA5-A41D1CEFC336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D9E0A9-9D39-417A-BDA5-A41D1CEFC336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37A6287-DD89-434F-8B56-01C7B60E2AFD}
+	EndGlobalSection
+EndGlobal

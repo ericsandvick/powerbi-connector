@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PowerBIConnector.Sample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86eeddf107e5c18e7d4abd1cd949074e1882a2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1f0001b43547df1137b6debc15edcaf805c542c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PowerBIConnector.Sample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PowerBIConnector.Sample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
